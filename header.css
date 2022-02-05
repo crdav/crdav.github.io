@@ -1,11 +1,13 @@
         .header {
-  padding: 80px; /* some padding */
-  text-align: center; /* center the text */
-  background: #663366; /* purple background */
-  color: white; /* white text color */
+  padding: 80px;
+  text-align: center;
+  background: #339999; 
+  color: white;
 }
-
-/* Increase the font size of the <h1> element */
 .header h1 {
   font-size: 50px;
+}
+
+        .body {
+              padding: 40px;
 }
