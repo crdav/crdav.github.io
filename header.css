@@ -10,4 +10,6 @@
 
         .body {
               min-height: 100%;
+             margin: 20;
+     padding: 20;
 }
