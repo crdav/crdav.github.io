@@ -45,9 +45,9 @@
 
 
 .footer {
-  padding: 20px; /* Some padding */
-  text-align: center; /* Center text*/
-  background: #ddd; /* Grey background */
+  padding: 20px;
+  text-align: center; 
+  background: #333; 
 }
 
 html,body{font-family:"Helvetica","Arial",sans-serif;font-size:20px;line-height:1.5}html{overflow-x:hidden}
