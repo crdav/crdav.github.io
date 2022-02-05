@@ -71,6 +71,22 @@ h1,h2,h3,h4,h5,h6{font-family:"Helvetica","Arial",sans-serif;font-weight:400;mar
   opacity: 0.7;
 }
 
+/* Style all font awesome brand icons */
+.fab {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+    color: #fff;
+}
+
+/* Add a hover effect if you want */
+.fab:hover {
+  opacity: 0.7;
+}
+
+
 
 a:link {
   text-decoration: none;
