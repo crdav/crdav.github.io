@@ -3,13 +3,14 @@
   text-align: center;
   background: #339999; 
   color: white;
+            
 }
 .header h1 {
   font-size: 50px;
 }
 
         .main-div {
-              min-height: 100%;
+             min-height: 100vh;
              margin: 20;
      padding: 20;
 }
